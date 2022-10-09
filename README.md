@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Richard-Passos
-- 👀 I’m interested in Learning more every day... :D
+- 👀 I’m interested in Dev. FullStack... :D
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: richard.ac.passos12@gmail.com
 - LinkedIn: https://www.linkedin.com/in/richard-passos-91703624b
