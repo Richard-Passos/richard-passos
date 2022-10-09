@@ -2,6 +2,7 @@
 - 👀 I’m interested in Learning more every day... :D
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: richard.ac.passos12@gmail.com
+- LinkedIn: https://www.linkedin.com/in/richard-passos-91703624b
 - Cell: 55 (51) 998505735
 
 <!---
