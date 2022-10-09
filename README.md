@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Richard-Passos
 - 👀 I’m interested in Learning more every day... :D
 - 🌱 I’m currently learning ...
-- 📫 How to reach me: richard.ac.passos@gmail.com
+- 📫 How to reach me: richard.ac.passos12@gmail.com
 - Cell: 55 (51) 998505735
 
 <!---
