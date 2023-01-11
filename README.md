@@ -6,7 +6,7 @@
 Hoje (12/01/2023) iniciando em React!</p>
 <p align="left">🔭 Fiz alguns projetos como Todo List, Clone da Home-Page do google, Jogo da Velha, etc....</p>
 <p>:earth_americas: &nbsp;Onde me encontrar ▼ </p> 
-<div align="center">
+<div align="left">
   <a href="mailto:richard.ac.passos12@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
