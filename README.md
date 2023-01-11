@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<h3 align="left">💜 Olá, meu nome é <strong>{Richard Passos}</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
+<h3 align="left">💜 Olá, meu nome é <strong>{Richard Passos}</strong> <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
 
 <p align="left">Atualmente estou estudando para me tornar um Dev. FullStack.</p>
 <p align="left">🔭 Fiz alguns projetos como Todo List, Clone da Home-Page do google, Jogo da Velha, etc....</p>
