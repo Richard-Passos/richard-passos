@@ -1,11 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<h2 align="left">💜 Olá, meu nome é <strong>{Richard P}!</h2>
+<h2 align="left">💜 Olá, meu nome é <strong>{ Richard Passos }</strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
 <p align="left">Atualmente estou estudando para me tornar um Dev. FullStack.</p>
 <p align="left">🔭 Fiz alguns projetos como Todo List, Clone da Home-Page do google, Jogo da Velha, etc....</p>
-
-<p align="left">💬 Entrar em contato ▼</p>
+<p>:earth_americas: &nbsp;Onde me encontrar ▼ </p> 
 <p align="left">
   <a href="mailto:richard.ac.passos12@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
@@ -28,10 +27,27 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-  
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-Passos&show_icons=true&theme=radical"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Richard-Passos&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Richard-Passos&show_icons=true" />
+</picture>
+
+<picture align="right">
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Richard-Passos&show_icons=true&theme=radical"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Richard-Passos&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Richard-Passos&show_icons=true" />
+</picture>
+
