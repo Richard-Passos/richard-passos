@@ -1,10 +1,32 @@
-<img src="./img/backgroundImg.png"> 
-- 👀 I’m interested in Dev. FullStack... :D
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: richard.ac.passos12@gmail.com
-- LinkedIn: https://www.linkedin.com/in/richard-passos-91703624b
-- Cell: 55 (51) 998505735
-<!---
-Richard-Passos/Richard-Passos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<h2 align="left">💜 Olá, meu nome é <strong>{Richard P}!</h2>
+
+<p align="left">Atualmente estou estudando para me tornar um Dev. FullStack.</p>
+<p align="left">🔭 Fiz alguns projetos como Todo List, Clone da Home-Page do google, Jogo da Velha, etc....</p>
+
+<p align="left">💬 Entrar em contato ▼</p>
+<p align="left">
+  <a href="mailto:richard.ac.passos12@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+</p>
+                                      
+  <span align="left">----</span>
+
+## 🚀 Minhas Skills
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+---
+
+## ⭐ Informações sobre minha conta GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+  
