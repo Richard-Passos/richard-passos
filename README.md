@@ -2,7 +2,8 @@
 
 <h2 align="left">💜 Olá, meu nome é { Richard Passos }</h2>
 <br>
-<p align="left">Atualmente estou estudando para me tornar um Dev. FullStack.</p>
+<p align="left">Atualmente estou estudando na Fullture School e na OneBitCode para me tornar um Dev. FullStack.
+Agora iniciando em React</p>
 <p align="left">🔭 Fiz alguns projetos como Todo List, Clone da Home-Page do google, Jogo da Velha, etc....</p>
 <p>:earth_americas: &nbsp;Onde me encontrar ▼ </p> 
 <div align="left">
