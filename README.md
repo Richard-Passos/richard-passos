@@ -1,3 +1,5 @@
+<img src="./img/backgroundImg.png"> 
+
 - <h1>👋 Hi, I'm @Richard-Passos</h1>
 - 👀 I’m interested in Dev. FullStack... :D
 - 🌱 I’m currently learning ...
