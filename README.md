@@ -1,8 +1,9 @@
-<h2 align="center">
+<h1 align="center" >
   💜 Olá, me chamo 
   <br> 
-  <span align="right"><em >{ Richard Passos }</em></span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h2>
+  <em>{ Richard Passos }</em> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <br>
@@ -50,3 +51,6 @@ Hoje (12/01/2023) iniciando em React!</p>
     <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Richard-Passos&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375""/>
   </a>
 </p>
+
+
+<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
