@@ -1,10 +1,19 @@
+<h2 align="center">
+  💜 Olá, meu nome é { Richard Passos } <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h2>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<h2 align="left">💜 Olá, meu nome é { Richard Passos }</h2>
 <br>
+
 <p align="left">Atualmente estou estudando na Fullture School e na OneBitCode para me tornar um Dev. FullStack.
 Hoje (12/01/2023) iniciando em React!</p>
+
+<br>
+
 <p align="left">🔭 Fiz alguns projetos como Todo List, Clone da Home-Page do google, Jogo da Velha, etc....</p>
+
+<br>
+
 <p>:earth_americas: &nbsp;Onde me encontrar ▼ </p> 
 <div align="left">
   <a href="mailto:richard.ac.passos12@gmail.com" alt="Gmail">
@@ -16,15 +25,23 @@ Hoje (12/01/2023) iniciando em React!</p>
   <a href="https://wa.me/555198505735" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 </div>     
+
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2>🚀 Minhas Skills</h2>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
+  Minhas Skills
+</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,git" />
+  </a>
+</p>
 
-<h2>⭐ Informações sobre minha conta GitHub</h2>
+<h2>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  Informações sobre minha conta GitHub
+</h2>
 <div align="center">
   <a href="https://github.com/Richard-Passos/">
     <img src="https://github-readme-stats.vercel.app/api?username=Richard-Passos&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
