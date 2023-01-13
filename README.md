@@ -1,5 +1,5 @@
 <h2 align="center">
-  💜 Olá, meu nome é { Richard Passos } <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  💜 Olá, meu nome é <br> <span align="right"><em >{ Richard Passos }</em></span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h2>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -42,9 +42,9 @@ Hoje (12/01/2023) iniciando em React!</p>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
   Informações sobre minha conta GitHub
 </h2>
-<div align="center">
-  <a href="https://github.com/Richard-Passos/">
-    <img src="https://github-readme-stats.vercel.app/api?username=Richard-Passos&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Richard-Passos&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+<p align="center">
+  <a href="https://github.com/AVS1508">
+    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Richard-Passos&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Richard-Passos&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375""/>
   </a>
-</div>
+</p>
