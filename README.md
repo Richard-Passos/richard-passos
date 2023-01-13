@@ -1,5 +1,7 @@
 <h2 align="center">
-  💜 Olá, meu nome é <br> <span align="right"><em >{ Richard Passos }</em></span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  💜 Olá, me chamo 
+  <br> 
+  <span align="right"><em >{ Richard Passos }</em></span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h2>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
