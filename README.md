@@ -1,3 +1,6 @@
+![Cópia de Banner Site Black Friday moderno preto e rosa](https://user-images.githubusercontent.com/104469731/212794678-449253fa-0cf7-4883-b496-755421e88382.gif)
+
+
 <h2 align="center" >
   💜 Olá, me chamo 
   <br> 
