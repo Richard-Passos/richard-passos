@@ -1,26 +1,20 @@
-![Cópia de Banner Site Black Friday moderno preto e rosa](https://user-images.githubusercontent.com/104469731/212794678-449253fa-0cf7-4883-b496-755421e88382.gif)
-
-
 <h2 align="center" >
-  💜 Olá, me chamo 
-  <br> 
-  <em>{ Richard Passos }</em> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  💜 Olá, me chamo <em>< RichardPassos /></em> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h2>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <br>
 
-<p align="left">Atualmente estou estudando na Fullture School e na OneBitCode para me tornar um Dev. FullStack.
-Hoje (12/01/2023) iniciando em React!</p>
+<p>😁 Sou Dev Front-end e estudando para me tornar FullStack.</p>
 
 <br>
 
-<p align="left">🔭 Fiz alguns projetos como Todo List, Clone da Home-Page do google, Jogo da Velha, etc....</p>
+<p>🔭 Fiz alguns projetos como Todo List, Fullflix, Jogo da Velha, etc....</p>
 
 <br>
 
-<p>:earth_americas: &nbsp;Onde me encontrar ▼ </p> 
+<p>🌎 Onde me encontrar ▼ </p> 
 <div align="left">
   <a href="mailto:richard.ac.passos12@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
@@ -40,7 +34,7 @@ Hoje (12/01/2023) iniciando em React!</p>
 </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,git" />
   </a>
 </p>
 
