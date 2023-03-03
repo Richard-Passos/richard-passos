@@ -16,7 +16,7 @@
 
 <p>🌎 Onde me encontrar ▼ </p> 
 <div align="left">
-  <a href="mailto:richard.ac.passos12@gmail.com" alt="Gmail" target:"_blank" references:"no-references">
+  <a href="mailto:richard.ac.passos12@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="https://www.linkedin.com/in/richard-passos-91703624b/" alt="Linkedin">
