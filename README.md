@@ -6,11 +6,11 @@
 
 <br>
 
-<p>😁 Sou Dev Front-end e estudando para me tornar FullStack.</p>
+<p>😁 Desenvolvedor Fullstack, me chamo Richard Passos. Altas competências em Next, JavaScript, Styled-components e Node.</p>
 
 <br>
 
-<p>🔭 Fiz alguns projetos como Todo List, Fullflix, Jogo da Velha, etc....</p>
+<p>🔭 Tenho diversos projetos postados aqui no GitHub, sendo alguns, NextFlix, TodoList e PokeNext.</p>
 
 <br>
 
