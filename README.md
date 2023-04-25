@@ -6,7 +6,7 @@
 
 <br>
 
-<p>😁 Desenvolvedor Fullstack, me chamo Richard Passos. Altas competências em Next, JavaScript, Styled-components e Node.</p>
+<p>😁 Desenvolvedor Fullstack, me chamo Richard Passos. Altas competências em Next, JavaScript, Styled-components e NodeJs.</p>
 
 <br>
 
@@ -34,7 +34,7 @@
 </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,git,next,mongodb" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,git,next,mongodb,nodejs" />
   </a>
 </p>
 
