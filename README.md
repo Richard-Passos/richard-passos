@@ -19,7 +19,7 @@
   <a href="mailto:richard.ac.passos12@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-  <a href="[https://www.linkedin.com/in/richard-passos-91703624b/](https://www.linkedin.com/in/richardpassosdevfullstack/)" alt="Linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/richardpassosdevfullstack/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   <a href="https://wa.me/555198505735" alt="WhatsApp" target="_blank">
