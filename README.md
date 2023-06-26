@@ -6,7 +6,7 @@
 
 <br>
 
-<p>😁 Desenvolvedor Fullstack, me chamo Richard Passos. Altas competências em Next, JavaScript, Tailwind CSS e NodeJs.</p>
+<p>😁 Desenvolvedor Fullstack, me chamo Richard Passos. Altas competências em NextJs, JavaScript, Tailwind CSS e NodeJs.</p>
 
 <br>
 
