@@ -4,8 +4,6 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<br>
-
 <p>😁 Desenvolvedor full stack, me chamo Richard Passos. Apaixonada pela tecnologia e evolução, sempre aprendendo e melhorando.</p>
 
 <br>
