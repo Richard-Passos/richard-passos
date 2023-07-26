@@ -1,16 +1,16 @@
 <h2 align="center">
-  💜 Olá, me chamo <em>< RichardP /></em> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  💜 Olá, me chamo <em>< Richard /></em> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h2>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <br>
 
-<p>😁 Desenvolvedor Fullstack, me chamo Richard Passos. Altas competências em NextJs, JavaScript, Tailwind CSS e NodeJs.</p>
+<p>😁 Desenvolvedor full stack, me chamo Richard Passos. Apaixonada pela tecnologia e evolução, sempre aprendendo e melhorando.</p>
 
 <br>
 
-<p>🔭 Tenho diversos projetos postados aqui no GitHub, sendo alguns, NextFlix, TodoList e PokeNext.</p>
+<p>🔭 Tenho diversos projetos postados aqui no GitHub, sendo alguns, NextFlix, TodoList e NativeFlix</p>
 
 <br>
 
@@ -19,7 +19,7 @@
   <a href="mailto:richard.ac.passos12@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-  <a href="https://www.linkedin.com/in/richardpassosdevfullstack/" alt="Linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/richardp-dev/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   <a href="https://wa.me/555198505735" alt="WhatsApp" target="_blank">
@@ -34,7 +34,7 @@
 </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,jest,styledcomponents,git,next,mongodb,nodejs,tailwindcss" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,js,jest,mongodb,git,tailwind,styledcomponents,html,css" />
   </a>
 </p>
 
