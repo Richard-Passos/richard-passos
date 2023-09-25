@@ -1,25 +1,25 @@
 <h2 align="center">
-  💜 Olá, me chamo <em>< Richard /></em> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  💜 Hi there! I'm <em>< Richard /></em> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h2>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p>😁 Desenvolvedor full stack, me chamo Richard Passos. Apaixonada pela tecnologia e evolução, sempre aprendendo e melhorando.</p>
+<p>😁 Full-stack developer. I love technology and I'm always learning and improving myself.</p>
 
 <br>
 
-<p>🔭 Tenho diversos projetos postados aqui no GitHub, sendo alguns, NextFlix, TodoList e NativeFlix</p>
+<p>🔭 I have a lot of projects here in GitHub, like... NextFlix, TodoList and NativeFlix.</p>
 
 <br>
 
-<span>📄 Veja mais no meu [currículo](https://github.com/Richard-Passos/nextflix/files/12174723/richard-passos-cv.pdf)</span>
+<span>📄 More about me [resume](https://github.com/Richard-Passos/nextflix/files/12174723/richard-passos-cv.pdf)</span>
 
 <br>
 
-<p>🌎 Onde me encontrar ⬇️ </p> 
+<p>🌎 Get in touch ⬇️ </p> 
 <div align="left">
   <a href="mailto:richard.ac.passos12@gmail.com" alt="Gmail" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" />
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/richardp-dev/" alt="Linkedin" target="_blank">
@@ -27,7 +27,7 @@
   </a>
 
   <a href="https://wa.me/555198505735" alt="WhatsApp" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/>
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/>
   </a>
 </div>     
 
