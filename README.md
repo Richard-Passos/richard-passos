@@ -12,7 +12,7 @@
 
 <br>
 
-<span>📄 More about me [resume](https://github.com/Richard-Passos/nextflix/files/12174723/richard-passos-cv.pdf)</span>
+<span>📄 My [resume](https://github.com/Richard-Passos/nextflix/files/12174723/richard-passos-cv.pdf)</span>
 
 <br>
 
