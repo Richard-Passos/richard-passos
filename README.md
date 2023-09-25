@@ -8,7 +8,7 @@
 
 <br>
 
-<p>🔭 I have a lot of projects here in GitHub, like... NextFlix, TodoList and NativeFlix.</p>
+<p>🔭 I have a lot of projects here in GitHub, feel free to look around.</p>
 
 <br>
 
