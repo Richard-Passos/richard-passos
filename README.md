@@ -8,7 +8,7 @@
 
 <br>
 
-<p>🔭 I have a lot of projects here in GitHub, feel free to look around.</p>
+<p>🔭 I have a lot of projects here in GitHub, feel free to look around. Projects that starts with "fe" are front-end projects, with "be" are back-end, "fs" are full-stack and "mb" are mobile projects.</p>
 
 <br>
 
