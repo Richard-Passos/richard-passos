@@ -16,7 +16,7 @@
 
 <br>
 
-<span>📄 My [resume](https://github.com/Richard-Passos/richard-passos/files/12715525/richard-passos-cv.pdf).</span>
+<span>📄 My [resume](https://github.com/Richard-Passos/richard-passos/files/14969114/richard-passos-cv.pdf).</span>
 
 <br>
 
