@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer iuriCode">
 
-<p>😁 Full-stack developer. I love technology and I'm always learning and improving myself.</p>
+<p>😁 Full-stack developer. I love technology and I'm always learning and  improving myself. <a href="https://richardp.vercel.app" target="_blank">My portfolio</a>.</p>
 
 <br>
 
@@ -43,7 +43,7 @@
 </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,js,jest,mongodb,git,tailwind,styledcomponents,html,css" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,ts,jest,mongodb,git,tailwind,styledcomponents,html,css" />
   </a>
 </p>
 
