@@ -1,10 +1,10 @@
 <h2 align="center">
-  💜 Hi there! I'm <em>< Richard /></em> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  💜 Hey there! I'm <em>< Richard /></em> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h2>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer iuriCode">
 
-<p>😁 Full-stack developer. I love technology and I'm always learning and  improving myself. <a href="https://richardp.vercel.app" target="_blank">My portfolio</a>.</p>
+<p>😁 Computer Science student at UFRGS — also a developer who cares building solid and scalable products. <a href="https://richardp.vercel.app" target="_blank">My portfolio</a>.</p>
 
 <br>
 
@@ -13,10 +13,6 @@
   
   Projects that starts with "fe" are front-end projects, with "be" are back-end, "fs" are full-stack, "mb" are mobile and "qa" are quality assurance projects.
 </p>
-
-<br>
-
-<span>📄 My [resume](https://github.com/Richard-Passos/richard-passos/files/14969114/richard-passos-cv.pdf).</span>
 
 <br>
 
@@ -43,7 +39,7 @@
 </h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,ts,jest,mongodb,git,tailwind,styledcomponents,html,css" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,php,mysql,nextjs,ts,jest,mongodb,git,tailwind,html,css" />
   </a>
 </p>
 
